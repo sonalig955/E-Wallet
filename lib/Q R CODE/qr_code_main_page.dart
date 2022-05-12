@@ -41,7 +41,7 @@ class QrPage extends StatelessWidget {
                     ],
                   ),
                   SizedBox(height: 20,),
-                  Text('+91 9555445308')
+                  Text('+91 1234567890')
                 ],
               ),
             ],
